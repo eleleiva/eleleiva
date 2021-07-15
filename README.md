@@ -1,4 +1,8 @@
-### Hi there 👋
+Hey, my name is **Luca** 👋🏼  
+
+I’m a web developer whose main focus is **front-end** development. I always try my best to improve **users** as well as **developers'** **experience** in every project I lay hands on.
+
+💬 You can reach out and know more about me at my personal [site](https://lucaleiva.com).
 
 <!--
 **eleleiva/eleleiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
