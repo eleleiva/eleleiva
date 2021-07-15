@@ -1,4 +1,4 @@
-Hey, my name is **Luca** 👋🏼  
+## Hey, my name is **Luca** 👋🏼  
 
 I’m a web developer whose main focus is **front-end** development. I always try my best to improve **users** as well as **developers'** **experience** in every project I lay hands on.
 
